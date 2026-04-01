@@ -1,4 +1,8 @@
 /*styles.css*/
+h1 {
+  color: #57781F;
+  background-color: #8EC9D1;
+}
 p {
   color: #C7ABD1;
   background-color: #DAEEF5;
@@ -18,8 +22,3 @@ p4 {
   color: #FF0000;
   background-color: #000000;
 }
-h1 {
-  color: #57781F;
-  background-color: #8EC9D1;
-}
-  
