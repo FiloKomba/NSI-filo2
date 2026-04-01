@@ -5,15 +5,17 @@ h1 {
 }
 p {
   color: #C7ABD1;
-  background-color: #DAEEF5;
+  background-color: #DAEEF5;;
 }
 p1 {
   color: #FF0000;
   background-color: #000000;
+  text-align:right;
 }
 p2 {
   color: #D5ABD9;
   background-color: #F5F1BA;
+  text-align:center;
 }
 p3 {
   color: #000000;
@@ -21,4 +23,5 @@ p3 {
 p4 {
   color: #FF0000;
   background-color: #000000;
+  text-align:right;
 }
