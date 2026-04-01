@@ -1,16 +1,20 @@
 /*styles.css*/
 p {
-  color: #C7ABD1
+  color: #C7ABD1;
+  background-color: #DAEEF5;
 }
 p1 {
-  color: #FF0000
+  color: #FF0000;
+  background-color: black;
 }
 p2 {
-  color: #D5ABD9
+  color: #D5ABD9;
+  background-color: #F5F1BA;
 }
 p3 {
   color: #000000
 }
 p4 {
-  color: #FF0000
+  color: #FF0000;
+  background-color: black;
 }
